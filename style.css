@@ -1,0 +1,17 @@
+img{
+  width: 100%;
+  object-fit: contain;
+}
+#jumbo{
+  padding:0;
+}
+.row{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  
+}
